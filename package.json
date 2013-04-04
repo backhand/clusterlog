@@ -1,0 +1,14 @@
+{
+  "name": "clusterlog",
+  "description": "clusterlog",
+  "version": "0.1.0",
+  "author": "Frederik Hannibal <frederik@backhand.dk>",
+  "main": "clusterlog",
+  "dependencies": {
+    "underscore": "*"
+  },
+  "license": "WTFPL",
+  "engines": { 
+    "node": ">=0.6.x"
+  }
+}
